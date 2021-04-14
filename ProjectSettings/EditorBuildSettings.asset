@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_MyScenes/ChooseRoom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_MyScenes/Dodgeball Room 1.unity
+    guid: 85893343b2adcf44ea25367293802ec9
+  - enabled: 1
+    path: Assets/_MyScenes/Dodgeball room 2.unity
+    guid: fc179d69d520d5544bc90a4798b86113
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f80d7ce7e4479744ba697c414b91cb7c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e562cb01e8c7f0044ab94c6e1a009f19, type: 2}
