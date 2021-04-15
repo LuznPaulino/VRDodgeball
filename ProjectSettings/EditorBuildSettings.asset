@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/_MyScenes/Dodgeball Room 1.unity
     guid: 85893343b2adcf44ea25367293802ec9
   - enabled: 1
-    path: Assets/_MyScenes/Dodgeball room 2.unity
-    guid: fc179d69d520d5544bc90a4798b86113
+    path: Assets/_MyScenes/Dogeball Room 2.unity
+    guid: a32f05b4d53ff90459c031c55deb047c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f80d7ce7e4479744ba697c414b91cb7c, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: ad5c537605a82ce49a88b43eb4ee1d2a, type: 2}
