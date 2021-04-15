@@ -818,7 +818,7 @@ MonoBehaviour:
   characteristicsLeft: 320
   characteristicsRight: 576
   speed: 5
-  jumpSpeed: 10
+  jumpSpeed: 2
 --- !u!143 &1097939957332830790
 CharacterController:
   m_ObjectHideFlags: 0
