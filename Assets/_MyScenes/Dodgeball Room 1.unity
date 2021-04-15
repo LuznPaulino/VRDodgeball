@@ -1088,6 +1088,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_ValidColorGradient.ctime0
+      value: 5975
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_ValidColorGradient.key0.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_ValidColorGradient.key0.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_ValidColorGradient.key0.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_ValidColorGradient.key1.b
+      value: 0.8761272
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_ValidColorGradient.key1.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_ValidColorGradient.key1.r
+      value: 0.36320752
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_InvalidColorGradient.atime1
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_InvalidColorGradient.key0.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1097939955490110026, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
+      propertyPath: m_InvalidColorGradient.key1.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1097939957332830785, guid: 5446bb45cff19464f85f1536abfda32f, type: 3}
       propertyPath: jumpSpeed
       value: 2
